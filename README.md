@@ -3,7 +3,9 @@
 Plant and fungal ecologist
 ______
 [Postdoctoral Research Associate w/ Dr. Colleen Iversen at Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/soren-e-weber)
+
 weberse@ornl.gov
+
 [@sporen_weber](https://twitter.com/sporen_weber/)
 
 
