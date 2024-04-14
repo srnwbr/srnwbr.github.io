@@ -2,7 +2,7 @@
 
 ::: {style="text-align: center"}
 
-<p>[Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/soren-e-weber) | [weberse\@ornl.gov](mailto:weberse@ornl.gov){.email} | [Curriculum Vitae](/Users/5o4/Documents/GitHub/srnwbr.github.io/weber_cv_aug3_2023.pdf) | [\@sporen_weber](https://twitter.com/sporen_weber/) | [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) | [LinkedIn](https://www.linkedin.com/in/s%C3%B6ren-weber-736648206/) | [ORCID](https://orcid.org/0000-0002-6351-5365)
+<p>[Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/soren-e-weber) | [weberse\@ornl.gov](mailto:weberse@ornl.gov){.email} | [Curriculum Vitae](https://github.com/srnwbr/srnwbr.github.io/blob/main/weber_cv.pdf) | [\@sporen_weber](https://twitter.com/sporen_weber/) | [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) | [LinkedIn](https://www.linkedin.com/in/s%C3%B6ren-weber-736648206/) | [ORCID](https://orcid.org/0000-0002-6351-5365)
 </p>
 
 :::
@@ -29,4 +29,3 @@ During my PhD at the University of Zürich with Dr. Pascal Niklaus, I investigat
 :::
 
 
-<img src="/Users/5o4/Documents/GitHub/srnwbr.github.io/headshot.jpg" class="callout"/> 
