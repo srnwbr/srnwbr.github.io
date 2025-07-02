@@ -1,7 +1,7 @@
 ![](/Users/5o4/Documents/GitHub/srnwbr.github.io/logo.png)
 
 ::: {style="text-align: center"}
-<p>[Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/soren-e-weber) \| [weberse\@ornl.gov](mailto:weberse@ornl.gov){.email} \| [Curriculum Vitae](https://github.com/srnwbr/srnwbr.github.io/blob/main/weber_cv.pdf) \| [\@sporen_weber](https://twitter.com/sporen_weber/) \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [ORCID](https://orcid.org/0000-0002-6351-5365)</p>
+<p>[ORCID](https://orcid.org/0000-0002-6351-5365) \| [Curriculum Vitae](https://github.com/srnwbr/srnwbr.github.io/blob/main/weber_cv.pdf)  \| [srnwbr\@gmail.com](mailto:srnwbr@gmail.com){.email} \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [\@sporen_weber](https://twitter.com/sporen_weber/) </p>
 :::
 
 # Dr. Sören Weber
