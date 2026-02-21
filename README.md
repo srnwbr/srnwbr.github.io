@@ -4,9 +4,12 @@
 <p>[ORCID](https://orcid.org/0000-0002-6351-5365) \| [Curriculum Vitae](https://github.com/srnwbr/srnwbr.github.io/blob/main/weber_cv.pdf)  \| [srnwbr\@gmail.com](mailto:srnwbr@gmail.com){.email} \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [\@sporen.bsky.social](https://bsky.app/profile/sporen.bsky.social) </p>
 :::
 
-# Sören Eliot Weber, Dr. Sc. Nat. (Phd)
+<p style="max-width: 50%; float: right;">
+![](/home/soren/Documents/GitHub/srnwbr.github.io/headshot_circle300.png) 
+</p>
+#  Sören Eliot Weber 
 
-*botany/mycology/mycorrhizae/global change*
+## *Mycorrhizae ⋅ Biogeochemistry ⋅ Global Change*
 
 ::: {style="text-align: justify"}
 ::: {style="margin-right: 30px;"}
