@@ -1,3 +1,7 @@
+::: {style="text-align: center"}
+<p>[About](index.html) \| [ORCID](https://orcid.org/0000-0002-6351-5365) \| [Curriculum Vitae](https://github.com/srnwbr/srnwbr.github.io/blob/main/weber_cv.pdf)  \| [srnwbr\@gmail.com](mailto:srnwbr@gmail.com){.email} \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [\@sporen.bsky.social](https://bsky.app/profile/sporen.bsky.social) </p>
+:::
+
 ::: {style="text-align: justify"}
 ::: {style="margin-right: 30px;"}
 ::: {style="margin-left: 30px;"}
