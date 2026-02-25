@@ -1,7 +1,7 @@
 ![](/home/soren/Documents/GitHub/srnwbr.github.io/logo.png)
 
 ::: {style="text-align: center"}
-<p>[Biography](biography.html) \| [Curriculum Vitae](weber_cv.pdf) \| [ORCID](https://orcid.org/0000-0002-6351-5365)  \| [srnwbr\@gmail.com](mailto:srnwbr@gmail.com){.email} \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [\@sporen.bsky.social](https://bsky.app/profile/sporen.bsky.social) </p>
+<p>[Biography](biography.html) \| [News](news.html) \| [Curriculum Vitae](weber_cv.pdf) \| [ORCID](https://orcid.org/0000-0002-6351-5365)  \| [srnwbr\@gmail.com](mailto:srnwbr@gmail.com){.email} \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [\@sporen.bsky.social](https://bsky.app/profile/sporen.bsky.social) </p>
 :::
 
 <p style="max-width: 50%; float: right;">
@@ -9,16 +9,20 @@
 </p>
 #  Sören Eliot Weber 
 
-## *Mycorrhizae ⋅ Biogeochemistry ⋅ Global Change*
-
-::: {style="text-align: justify"}
-::: {style="margin-right: 30px;"}
+::: {style="text-align: left"}
+::: {style="margin-right: 200px;"}
 ::: {style="margin-left: 30px;"}
 ::: {style="margin-bottom: 30px;"}
 
-I am primarily interested in how arbuscular mycorrhizal fungi (AMF) and other soil biota interact with plants, and in how these interactions influence and respond to ecosystem functions in the context of global change and biodiversity loss. I couple empirical study, advanced statistical and computational analysis and process-based modeling to examine:
+I am primarily interested in how arbuscular mycorrhizal fungi (AMF) and other soil biota interact with plants. Understanding the ecosystem-level consequences of these plant-microbe interactions will enable sustainable land and resource management to mitigate drivers of global change and biodiversity loss. 
 
-  - How the eco-evolutionary dynamics of partner selection in the plant-AMF symbiosis generate patterns of biodiversity and ecosystem functioning
+While I am a 'jack-of-all-trades' for methods, I have extensive experience using radio- and stable isotopes to track resource flow and conducting analysis and experimental design with linear mixed-effect models. I am currently adding process-based models to predict soil C and nutrient cycles from complex interactions between plants, microbes, and soil. 
+
+
+
+These are several of my favorite questions:
+
+  - How do eco-evolutionary dynamics of partner selection in the plant-AMF symbiosis generate patterns of biodiversity and ecosystem functioning?
   
     - [AMF diversity improves plant resource uptake across plant functional types](https://doi.org/10.1111/nph.70161)
     
@@ -26,7 +30,7 @@ I am primarily interested in how arbuscular mycorrhizal fungi (AMF) and other so
     
     - AMF acquire more C when given 'choice' of plant species (in prep.)
     
-  - How do soil biota and plants respond to (sometimes multiple) global change drivers
+  - How do soil biota and plants respond to (sometimes multiple) global change drivers?
   
     - AMF[<sup>1,</sup>](https://doi.org/10.1016/j.funeco.2018.11.008) [<sup>2</sup>](https://doi.org/10.1016/j.funeco.2019.01.002)
     
@@ -44,7 +48,12 @@ I am primarily interested in how arbuscular mycorrhizal fungi (AMF) and other so
     
     - Plant functional groups[<sup>1,</sup>](https://www.biorxiv.org/content/10.1101/2025.06.26.661811v1)[<sup>2</sup>](https://doi.org/10.1111/nph.19220)
     
+
 :::
 :::
 :::
+:::
+
+::: {style="text-align: center"}
+## **Mycorrhizae ⋅ Global Change ⋅ Biogeochemistry **
 :::

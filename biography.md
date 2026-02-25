@@ -2,11 +2,11 @@
 
 
 ::: {style="text-align: center"}
-<p>[About](index.html) \| [Curriculum Vitae](weber_cv.pdf) \| [ORCID](https://orcid.org/0000-0002-6351-5365) \| [srnwbr\@gmail.com](mailto:srnwbr@gmail.com){.email} \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [\@sporen.bsky.social](https://bsky.app/profile/sporen.bsky.social) </p>
+<p>[About](index.html) \| [News](news.html) \| [Curriculum Vitae](weber_cv.pdf) \| [ORCID](https://orcid.org/0000-0002-6351-5365) \| [srnwbr\@gmail.com](mailto:srnwbr@gmail.com){.email} \| [Google Scholar](https://scholar.google.com/citations?user=jMzt8eEAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Soeren-Weber) \| [\@sporen.bsky.social](https://bsky.app/profile/sporen.bsky.social) </p>
 :::
 
-::: {style="text-align: justify"}
-::: {style="margin-right: 30px;"}
+::: {style="text-align: left"}
+::: {style="margin-right: 200px;"}
 ::: {style="margin-left: 30px;"}
 ::: {style="margin-bottom: 30px;"}
 
@@ -21,7 +21,7 @@ Before my doctoral studies, I acted as the laboratory manager and technician for
 
 Prior to working with Marko, I did my masters at UCR with Jeffrey Diez and Michael Allen studying the responses of AMF to multiple global change drivers in the coastal sage scrub of the [Loma Ridge Global Change Experiment](https://lomaridge.bio.uci.edu/). 
 
-My B.S. *summa cum laude* in Biology was received from the University of Central Florida, where I pursued research projects in plant-soil feedbacks, AMF, soil CO<sub>2</sub> respiration, and population genetics.
+My B.S. in Biology was received from the University of Central Florida, where I pursued research projects in plant-soil feedbacks, AMF, soil CO<sub>2</sub> respiration, and population genetics.
 
 :::
 :::
