@@ -14,11 +14,11 @@
 ::: {style="margin-left: 30px;"}
 ::: {style="margin-bottom: 30px;"}
 
-I am primarily interested in how arbuscular mycorrhizal fungi (AMF) and other soil biota interact with plants. Understanding the ecosystem-level consequences of these plant-microbe interactions will enable sustainable land and resource management to mitigate drivers of global change and biodiversity loss. 
+I am primarily interested in the role of plant-microbe interactions redistributing resources among organisms and driving biogeochemical cycles at ecosystem, and ultimately earth system, scales in the context of global change. Understanding the ecosystem-level consequences of these plant-microbe interactions will enable sustainable land and resource management to mitigate drivers of global change and biodiversity loss. 
 
-While I am a 'jack-of-all-trades' for methods, I have extensive experience using radio- and stable isotopes to track resource flow and conducting analysis and experimental design with linear mixed-effect models. I am currently adding process-based models to predict soil C and nutrient cycles from complex interactions between plants, microbes, and soil. 
+I'm currently on the job market, looking primarily for faculty positions but I am open to other research-focused roles (staff scientist, government, NGO) where I can build a lab around my interests in plant-microbe interactions and biogeochemistry. 
 
-
+I take a 'jack-of-all-trades' approach to methods. I have a strong background using radio- and stable isotopes, plant and mycorrhizal fungal functional traits, fine-roots, and minirhizotrons. Analytically, I have extensive experience using linear mixed-effect models on messy ecological datasets, and I am now using process-based models to predict and analyze carbon and nutrient cycles at the ecosystem scale. 
 
 These are several of my favorite questions:
 
@@ -31,14 +31,15 @@ These are several of my favorite questions:
     - AMF acquire more C when given 'choice' of plant species (in prep.)
     
   - How do soil biota and plants respond to (sometimes multiple) global change drivers?
-  
-    - AMF[<sup>1,</sup>](https://doi.org/10.1016/j.funeco.2018.11.008) [<sup>2</sup>](https://doi.org/10.1016/j.funeco.2019.01.002)
+     
+     - Experimental warming, elevated CO<sub>2</sub>, and lower water tables promote shrub root production and biomass more than trees and herbs (accepted June 2026 at Journal of Ecology, preprint link)[<sup>1</sup>](https://www.biorxiv.org/content/10.1101/2025.06.26.661811v1)
+      
+    - AMF show functional group specific responses to global change drivers[<sup>1,</sup>](https://doi.org/10.1016/j.funeco.2018.11.008) [<sup>2</sup>](https://doi.org/10.1016/j.funeco.2019.01.002)
     
-    - Prokaryotes and other fungi[<sup>1,</sup>](https://doi.org/10.1111/gcb.15340) [<sup>2</sup>](https://doi.org/10.1111/mec.14694) [<sup>3</sup>](https://doi.org/10.1016/j.apsoil.2025.106585)
+    - Woody plant encroachment in the alpine dramatically alters the compositions of prokaryotes and fungi res[<sup>1,</sup>](https://doi.org/10.1111/gcb.15340) [<sup>2</sup>](https://doi.org/10.1111/mec.14694) [<sup>3</sup>](https://doi.org/10.1016/j.apsoil.2025.106585)
     
-    - Plant-soil feedbacks[<sup>1</sup>](https://doi.org/10.1093/aobpla/plaa040)
+    - Warming alters plant-soil feedbacks[<sup>1</sup>](https://doi.org/10.1093/aobpla/plaa040)
     
-    - Fine-roots[<sup>1</sup>](https://www.biorxiv.org/content/10.1101/2025.06.26.661811v1)
     
   - How do functional differences among mycorrhizal fungi and plants influence their interactions with each other and ecosystem processes?
   
@@ -55,5 +56,5 @@ These are several of my favorite questions:
 :::
 
 ::: {style="text-align: center"}
-## **Mycorrhizae ⋅ Global Change ⋅ Biogeochemistry **
+## **Mycorrhizae ⋅ Biogeochemistry ⋅ Global Change**
 :::
